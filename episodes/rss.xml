@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+
+<channel>
+  <title>It's Ya Book Club</title>
+  <googleplay:author>Mary Newenhisen and Imani Muya</googleplay:author>
+  <description>Two friends ranting about Young Adult fiction in podcast form</description>
+  <googleplay:category text="Entertainment"/>
+  <googleplay:image href="https://itsyabook.club/images/logo.jpg"/>
+  <language>en</language>
+  <link>https://itsyabook.club/</link>
+  <item>
+    <title>Episode 1 Howl's Moving Castle</title>
+    <description>What's up?! Welcome to our podcast! Enjoy as we rant and rave about Diana Wynne Jones' How's Moving Castle. We hope you love this book as much as we do!</description>
+    <pubDate>Tue, 28 Dec 2021 12:00:00 GMT</pubDate>
+    <enclosure url="https://itsyabook.club/episodes/Episode_1_ Howl's_Moving_Castle.mp3" type="audio/mpeg" length="82235381" />
+    <itunes:duration>1:25:32</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 2 Dragons in our Midst: Raising Dragons</title>
+    <description>What's up?! We're back with our second episode! Mary and I both grew up reading The Dragon' in our Midst series by Bryan Davis and are so excited to share our thoughts of the fist book with you!</description>
+    <pubDate>Tue, 28 Dec 2021 12:00:00 GMT</pubDate>
+    <enclosure url="https://itsyabook.club/episodes/Episode_2_Raising_Dragons.mp3" type="audio/mpeg" length="71125143" />
+    <itunes:duration>1:18:44</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 3 Maximum Ride: The Angel Expirament</title>
+    <description>What's up?! Thanks for coming back! Join us as we talk about the James Patterson classis Maximum Ride. Bonus! We also watched the movie and discuss that too!</description>
+    <pubDate>Tue, 28 Dec 2021 12:00:00 GMT</pubDate>
+    <enclosure url="https://itsyabook.club/episodes/Episode_3_Maximum_Ride.mp3" type="audio/mpeg" length="85946502" />
+    <itunes:duration>1:31:59</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 4 Six of Crows</title>
+    <description>What's up?! Fantasy Heist is the best way that Mary can describe this book and you'll see why! Join us as we unpack the book by the same Author who's book the Netflix series Shadow and Bone is based off of! Enjoy our commentary of Six of Crows by Leigh Bardugo</description>
+    <pubDate>Tue, 28 Dec 2021 12:00:00 GMT</pubDate>
+    <enclosure url="https://itsyabook.club/episodes/Episode_4-Six-of-Crows.mp3" type="audio/mpeg" length="853768434" />
+    <itunes:duration>1:20:39</itunes:duration>
+  </item>
+  <item>
+    <title>Episode 5 The Bone Houses</title>
+    <description>What's up?! Get a taste for Welsh Folklore as we embark on a quest to finally let the dead be at rest! A review of the book The Bone Houses by Emily Lloyd-Jones</description>
+    <pubDate>Tue, 28 Dec 2021 12:00:00 GMT</pubDate>
+    <enclosure url="https://itsyabook.club/episodes/Episode_5-The-Bone-Houses.mp3" type="audio/mpeg" length="673867488" />
+    <itunes:duration>1:03:40</itunes:duration>
+  </item>
+</channel>
+
+</rss>
