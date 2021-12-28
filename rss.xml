@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 
 <channel>
   <title>It's Ya Book Club</title>
-  <googleplay:author>Mary Newenhisen and Imani Muya</googleplay:author>
+  <itunes:author>Mary Newenhisen and Imani Muya</itunes:author>
   <description>Two friends ranting about Young Adult fiction in podcast form</description>
   <itunes:owner>
+    <itunes:name>Its Ya Book Club</itunes:name>
     <itunes:email>itsyabookclub@gmail.com</itunes:email>
   </itunes:owner>
-  <googleplay:category text="Entertainment"/>
-  <googleplay:image href="https://itsyabook.club/images/logo.jpg"/>
+  <itunes:category text="Entertainment"/>
+  <itunes:image href="https://itsyabook.club/images/logo-smol.png"/>
   <language>en</language>
   <link>https://itsyabook.club/</link>
   <item>
