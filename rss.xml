@@ -5,6 +5,7 @@
   <title>It's Ya Book Club</title>
   <googleplay:author>Mary Newenhisen and Imani Muya</googleplay:author>
   <description>Two friends ranting about Young Adult fiction in podcast form</description>
+  <itunes:email>itsyabookclub@gmail.com</itunes:email>
   <googleplay:category text="Entertainment"/>
   <googleplay:image href="https://itsyabook.club/images/logo.jpg"/>
   <language>en</language>
